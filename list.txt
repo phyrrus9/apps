@@ -1,1 +1,1 @@
-magicount magicount.ipa phyrrus9 Magic the Gathering counter app#
+magicount magicount.ipa phyrrus9 1 Magic the Gathering counter app#
